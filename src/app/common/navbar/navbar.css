@@ -1,0 +1,14 @@
+ul
+{
+    background-color: rgb(171, 176, 25);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    font-style: unset;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+}
+
