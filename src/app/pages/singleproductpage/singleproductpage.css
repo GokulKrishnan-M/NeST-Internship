@@ -1,0 +1,30 @@
+.product-price {
+	font-weight: bold;
+	color: #060606;
+	font-size: 1.2em;
+	margin-bottom: 0.5rem;
+}
+.product-title {
+	margin-bottom: 1.2rem;
+}
+.product-container {
+	display: flex;
+	align-items: flex-start;
+	gap: 2rem;
+}
+
+.product-image {
+	height: 600px;
+	width: 600px;
+	object-fit: contain;
+	border-radius: 8px;
+	box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.product-description {
+	text-align: justify;
+	line-height: 1.2;
+	margin-bottom: 0.5rem;
+	max-width: 32em;
+	word-break: break-word;
+}
