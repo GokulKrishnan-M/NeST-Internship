@@ -49,7 +49,7 @@ export class District {
     "id": 7,
     "title": "Ernakulam",
     "description": "Commercial capital of Kerala, home to Kochi city.",
-    "imglink": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQa7c5bHvOduPB-A9ly6-ZtSBb3xw8wuSNS8Kfk4fVCgsZ9f75c5GMbFaEwcORG84c5"
+    "imglink": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQ0uYvNHNrkF4Pkv0zLKOtjHxQWre7uKz5DVxyzwqIRemqxxQ7eCooMkLX18kqu-2nGxDyWedaNcDMApmV3esJqR3SkRznOjrB1ySPyig"
   },
   {
     "id": 8,
@@ -96,3 +96,4 @@ export class District {
 ]
 
 }
+
